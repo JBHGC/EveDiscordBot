@@ -1,7 +1,9 @@
 # EveDiscordBot
-This Bot was something coded last month to try out some new ideas. Uploaded completed because I forgot about Github.
+This Bot was something coded last month to try out some new ideas. This was uploaded already completed because I forgot about my Github.
 
-Currently "**EveBot**" as I call it, is as the name implies, a **Discord Bot**, using the **Discord.py** API Wrapper. Me not knowing that there are 2 versions wrote the outdated version and then "rewrote" the code with the *rewrite* version.
+Currently "**EveBot**" as I call it, is as the name implies, a **Discord Bot**, using the **Discord.py** API Wrapper. Me not knowing that there are 2 versions; wrote the outdated version and then "rewrote" the code with the *rewrite* version.
+
+As it stands this was more of a project to get to mess with some libraries/make something that I couldn't find myself.
 
 ## Commands:
 All of the following commands are currently supported by EveBot, and are used as follows:
