@@ -19,7 +19,7 @@ Typing this command with a quote after, `EX: !addquote I thought it'd work - Phi
 ### !delquote:
 Typing this commands with a number(of the quote) will delete the quote.
 
-# The !Roll system:
+# The !Roll System:
 ### !roll:
 Typing this command with a die(D4, D6, D8, D10, D12, D20, D90, D100) will "roll" the die.
 The D100 will be rolled as a D90 and a D10.
