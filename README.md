@@ -23,5 +23,3 @@ Typing this commands with a number(of the quote) will delete the quote.
 ### !roll:
 Typing this command with a die(D4, D6, D8, D10, D12, D20, D90, D100) will "roll" the die.
 The D100 will be rolled as a D90 and a D10.
-
-README STILL UNDER CONSTRUCTION!!!
