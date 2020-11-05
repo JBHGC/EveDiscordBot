@@ -6,7 +6,8 @@ Currently "**EveBot**" as I call it, is as the name implies, a **Discord Bot**, 
 As it stands this was more of a project to get to mess with some libraries/make something that I couldn't find myself.
 
 I personally run **EveBot** on an AWS instance, but something that I'm messing with is running this code on a Raspberry Pi locally so I can make "faster" adjustments and also mess around with a Raspberry Pi to use it as a mini 24/7 server.
-**COMPLETED!!**
+
+**COMPLETED!!** This is currently running on a Raspberry Pi 4 which is using the Power over Ethernet (PoE)Hat. I just remote into it from my main desktop to not have extra clutter.
 
 # Commands:
 All of the following commands are currently supported by EveBot, and are used as follows:
