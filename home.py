@@ -171,7 +171,7 @@ async def roll(ctx, *, message_content=""):
             output = random.choice(ALL_DICE[f'{die}'])
 
             if die == 'd100':
-                sec10 = random.choice(ALL_DICE['d10'])
+                sec10 = int(random.choice(ALL_DICE['d10'])-1)
                 output += sec10
 
             await ctx.send( f'You rolled {output}' )
