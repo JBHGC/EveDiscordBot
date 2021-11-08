@@ -30,9 +30,14 @@ The D100 will be rolled as a D90 and a D10.
 
 ## (Added to the main bot, still in private testing) The !TTS System:
 ### !tts:
--Currently Supports Multiple Users in the Same Call-
+#### Currently Supports Multiple Users in the Same Call
+
 Typing this command while in a Voice Channel, will have EveBot join your call and begin listening to your next messages.
+
 Typing the command followed by an accent supported by Google's TTS will change the voice spoken for the person EveBot is listening to.
-Typing Links, Pinging another user and emotes will be automatically filtered depending on the contents of the messages.
+
+Typing Links, Emotes, and/or Pinging another user, will be automatically filtered depending on the contents of the messages.
+
 EveBot will then start speaking your messages out loud in the call.
+
 To end TTS service, simply typing "pickles" lower-case, one-word will stop TTS, and leave the call if you are the last person to use it.
