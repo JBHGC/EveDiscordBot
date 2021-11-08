@@ -21,9 +21,18 @@ If you add a number after, `EX: !quote ##` the command will instead grab the spe
 Typing this command with a quote after, `EX: !addquote I thought it'd work - Phillip` the command will add the quote: `I thought it'd work - Phillip` to the **quotes.json** file as the earliest available integer above 0.
 
 ### !delquote:
-Typing this commands with a number(of the quote) will delete the quote.
+Typing this command with a number(of the quote) will delete the quote.
 
 ## The !Roll System:
 ### !roll:
 Typing this command with a die(D4, D6, D8, D10, D12, D20, D90, D100) will "roll" the die.
 The D100 will be rolled as a D90 and a D10.
+
+## (Added to the main bot, still in private testing) The !TTS System:
+### !tts:
+-Currently Supports Multiple Users in the Same Call-
+Typing this command while in a Voice Channel, will have EveBot join your call and begin listening to your next messages.
+Typing the command followed by an accent supported by Google's TTS will change the voice spoken for the person EveBot is listening to.
+Typing Links, Pinging another user and emotes will be automatically filtered depending on the contents of the messages.
+EveBot will then start speaking your messages out loud in the call.
+To end TTS service, simply typing "pickles" lower-case, one-word will stop TTS, and leave the call if you are the last person to use it.
